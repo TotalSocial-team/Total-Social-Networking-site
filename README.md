@@ -1,2 +1,2 @@
 # Total-Social-Networking-site
-This is all the cod or Total Social.
+This is all the code for Total Social. Nothing left out! 
